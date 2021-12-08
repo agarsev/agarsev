@@ -7,5 +7,5 @@ If you want to see my CV, click [here!](https://garciasevilla.com/cv.pdf) You ca
 #### Some other links:
 
 - :key: [RSA Public Key](https://garciasevilla.com/afgs.asc)
-- :books: [Scientific publications](https://garciasevilla.com/categories/Writings/Scientific)
-- :cd: [Apps](https://garciasevilla.com/categories/Apps)
+- :books: [Scientific publications](https://garciasevilla.com/biblio)
+- :cd: [Apps](https://garciasevilla.com/apps)
